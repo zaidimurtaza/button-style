@@ -1,0 +1,20 @@
+html{
+   background-color: blanchedalmond; 
+/}
+h1{
+    color: blueviolet;
+    background-color: yellowgreen;
+} 
+#g{
+    color: rgb(206, 183, 228);
+    background-color: rgb(0, 0, 0);
+}
+* h1{
+   font-weight: 300;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30em
+   }
+   body{
+    font-size: 2px;
+    text-align: center;
+   }
